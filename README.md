@@ -1,6 +1,6 @@
 # ToDo
 
-This is a simple Nuxt "to do" application that uses local storage to save items.  It works completely offline and items persist until the cache is cleared.  It easily integrates into other applications.
+This is a simple Nuxt "to do" application that uses local storage to save items.  It works completely offline and items persist until the cache is cleared.  Easily integrates into other applications.
 
 ## Build Setup
 
